@@ -2,3 +2,6 @@
 theme: jekyll-theme-minimal
 title: Sarah's homepage
 description: Trying to update configuration?
+
+header_pages:
+  about.md
